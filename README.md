@@ -5,33 +5,13 @@
 ### Utilities
 
 <details>
-<summary><strong>archledger</strong> - Source-first arc42 architecture documentation from Markdown and AsciiDoc records</summary>
-
-- **Source**: source
-- **License**: Apache-2.0
-- **Homepage**: https://github.com/holgern/archledger
-- **Usage**: `nix run github:oduit/oduit.nix#archledger -- --help`
-- **Nix**: [packages/archledger/package.nix](packages/archledger/package.nix)
-
-</details>
-<details>
 <summary><strong>codecrate</strong> - Pack Python codebases into Markdown optimized for LLM context delivery</summary>
 
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/holgern/codecrate
-- **Usage**: `nix run github:oduit/oduit.nix#codecrate -- --help`
+- **Usage**: `nix run github:holgern/holgern-pkgs.nix#codecrate -- --help`
 - **Nix**: [packages/codecrate/package.nix](packages/codecrate/package.nix)
-
-</details>
-<details>
-<summary><strong>taskledger</strong> - Durable project-state storage and CLI for coding workflows</summary>
-
-- **Source**: source
-- **License**: Apache-2.0
-- **Homepage**: https://github.com/holgern/taskledger
-- **Usage**: `nix run github:oduit/oduit.nix#taskledger -- --help`
-- **Nix**: [packages/taskledger/package.nix](packages/taskledger/package.nix)
 
 </details>
 <details>
@@ -40,18 +20,8 @@
 - **Source**: source
 - **License**: MIT
 - **Homepage**: https://github.com/holgern/toktrail
-- **Usage**: `nix run github:oduit/oduit.nix#toktrail -- --help`
+- **Usage**: `nix run github:holgern/holgern-pkgs.nix#toktrail -- --help`
 - **Nix**: [packages/toktrail/package.nix](packages/toktrail/package.nix)
-
-</details>
-<details>
-<summary><strong>wikimason</strong> - Filesystem-backed CLI toolkit for building and maintaining an LLM wiki</summary>
-
-- **Source**: source
-- **License**: MIT
-- **Homepage**: https://github.com/holgern/wikimason
-- **Usage**: `nix run github:oduit/oduit.nix#wikimason -- --help`
-- **Nix**: [packages/wikimason/package.nix](packages/wikimason/package.nix)
 
 </details>
 <!-- END GENERATED PACKAGE DOCS -->
